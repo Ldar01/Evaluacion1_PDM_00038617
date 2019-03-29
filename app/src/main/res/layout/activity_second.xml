@@ -213,10 +213,10 @@
         android:text="@string/text_usuario"/>
 
     <TextView
-        android:id="@+id/username_edit"
+        android:id="@+id/username_second"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/text_escribe_el_usuario_aqui"/>
+        android:text=""/>
 
     <TextView
         android:id="@+id/correo"
@@ -225,16 +225,16 @@
         android:text="@string/text_correo_electronico"/>
 
     <TextView
-        android:id="@+id/correo_edit"
+        android:id="@+id/correo_second"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/text_escribe_el_usuario_aqui"/>
+        android:text=""/>
 
     <Button
+        android:id="@+id/button_share"
         android:layout_gravity="center"
-        android:id="@+id/button_enviar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/text_enviar"/>
+        android:text="@string/text_compartir"/>
 
 </LinearLayout>
