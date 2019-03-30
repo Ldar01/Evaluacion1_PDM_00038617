@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="margin_linear">10dp</dimen>
+    <dimen name="margin_linear">5dp</dimen>
     <dimen name="padding_linear">20dp</dimen>
+    <dimen name="padding_numb">5dp</dimen>
 </resources>
